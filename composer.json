@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.8",
+        "culqi/culqi-php": "1.5.2"
+    }
+}
